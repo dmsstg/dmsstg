@@ -3,16 +3,25 @@
 </div>
 
 <p>
-    <h1>
-        Hi there! My name is Dima.
+    <h3>
+        Hi there! My name is Dima. I'm delighted to have you here!
         <img src="img/waving_hand.svg"/>
-    </h1>
+    </h3>
 </p>
 
+---
 
-I'm delighted to have you here!
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=java,py,ts,js,spring,maven,react,idea,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=selenium,gherkin,jest,django,postgres,mysql,mongodb,dynamodb,regex" /><br>  
+    <img src="https://skillicons.dev/icons?i=postman,git,github,githubactions,jenkins,aws,docker,firebase,nodejs" /><br>
+  </a>
+</p>
 
-My name is Dima. Welcome to my repository, a collection of my projects, both public and private!
+---
+
+Welcome to my repository, a collection of my projects, both public and private!
 
 - I'm a Software Engineer dedicated to hunting down and fixing bugs.
 - I absolutely love coding.
@@ -21,6 +30,8 @@ My name is Dima. Welcome to my repository, a collection of my projects, both pub
 - I'm always excited to learn and share my knowledge.
 
 I'm sure we share a commitment to delivering top-notch software and ensuring the best user experience!
+
+---
 
 Feel free to join! :handshake:
 
