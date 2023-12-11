@@ -1,12 +1,14 @@
 <div id="header" style="width:100%">
     <img src="img/header.png" title="DS Repo" >
 </div>
-<br><br>
 
-<p style="display:inline-block;">
-Hi there!
-<img src="img/waving_hand.svg"/>
+<p>
+    <h1>
+        Hi there! My name is Dima.
+        <img src="img/waving_hand.svg"/>
+    </h1>
 </p>
+
 
 I'm delighted to have you here!
 
